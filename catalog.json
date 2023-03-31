@@ -1,0 +1,13 @@
+{
+  "name": "Email gateway",
+  "description": "Sending emails to our best customers with the help of marketing",
+  "type": "Nightly process",
+  "priority": 5,
+  "meta": {
+    "github_url": "https://github.com/burnt-tomatoes/email-gateway",
+    "slack_channel": "#marketing-team",
+  },
+  "dependencies": [
+    "databases"
+  ]
+}
