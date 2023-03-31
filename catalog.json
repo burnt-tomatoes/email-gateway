@@ -5,7 +5,7 @@
   "priority": 5,
   "meta": {
     "github_url": "https://github.com/burnt-tomatoes/email-gateway",
-    "slack_channel": "#marketing-team",
+    "slack_channel": "#marketing-team"
   },
   "dependencies": [
     "databases"
